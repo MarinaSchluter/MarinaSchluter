@@ -10,7 +10,7 @@ I have over 20 years of experience in the **Gaming industry**, spanning both bas
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Marina Schluter) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Marina Schluter](https://www.linkedin.com/in/marina-schluter-41281633/)) 
 
 # 💻 Tech Stack:
  
