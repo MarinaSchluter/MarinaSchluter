@@ -1,7 +1,7 @@
 # 💫 About Me:
 I'm Marina, my desire to learn has led me to the amazing world of **Data Analysis** and **Data Science**.📊<br><br>
 
-👩‍🎓 Studing [Data Anlyst](https://www.upgrade-hub.com/bootcamp/curso-data-analytics/) at Upgrade Hub.
+👩‍🎓Studing [Data Anlyst](https://www.upgrade-hub.com/bootcamp/curso-data-analytics/) at Upgrade Hub.
 
 🏅Complete [ICA Certificate in Anti Money Laundering](https://www.int-comp.org/courses/ica-certificate-in-anti-money-laundering/) in July 2021.
 
