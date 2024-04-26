@@ -13,10 +13,6 @@ This is a field full of opportunities for **learning and growth**. There's alway
 ## Working Experience💻🎰<br>
 I have over 20 years of experience in the **Gaming industry**, spanning both based landed and Online. Throughout this extensive tenure, I have continuously evolved, learning and delving into various facets of the business. My expertise encompasses **Customer Service**, **VIP user Management**, **Responsible Gaming**, **Fraud** detection, **Risk** Assessment, and **Anti-Money Laundering**.<br><br>
 
-
-## 🌐 Socials:<br/>
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Marina Schluter](https://www.linkedin.com/in/marina-schluter-41281633/))<br><br>
-
 # ⚡ Tech Stack:<br/> 
 ## 💻 Data Science & Business Intelligence Full Stack <br>
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
