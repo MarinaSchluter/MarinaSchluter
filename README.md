@@ -1,11 +1,11 @@
 # 💫 About Me:
 I'm Marina, my desire to learn has led me to the amazing world of **Data Analysis** and **Data Science**.📊<br><br>
 
-👩‍🎓 Studing [Data Anlyst](https://www.upgrade-hub.com/bootcamp/curso-data-analytics/) at Upgrade Hub.<br/><br><br>
+👩‍🎓 Studing [Data Anlyst](https://www.upgrade-hub.com/bootcamp/curso-data-analytics/) at Upgrade Hub.
 
 🏅Complete [ICA Certificate in Anti Money Laundering](https://www.int-comp.org/courses/ica-certificate-in-anti-money-laundering/) in July 2021.
 
-🏅Complete [ICA International Advanced Certificate in Anti Money Laundering (AML)](https://www.int-comp.org/courses/ica-international-advanced-certificate-in-anti-money-laundering/) in June 2023.
+🏅Complete [ICA International Advanced Certificate in Anti Money Laundering (AML)](https://www.int-comp.org/courses/ica-international-advanced-certificate-in-anti-money-laundering/) in June 2023.<br/><br><br>
 
 
 This is a field full of opportunities for **learning and growth**. There's always something new to discover, whether it's exploring different techniques, mastering programming languages, or diving into the latest developments in machine learning and artificial intelligence. <br><br>
