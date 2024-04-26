@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Marina, my desire to learn has led me to the amazing world of **Data Analysis** and **Data Science**.📊<br><br>
+I'm Marina, my desire to learn has led me to the amazing world of **Data Analysis** and **Data Science**.📊<br>
 
 👩‍🎓Studing [Data Anlyst](https://www.upgrade-hub.com/bootcamp/curso-data-analytics/) at Upgrade Hub.
 
