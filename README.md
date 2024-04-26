@@ -3,7 +3,12 @@ I'm Marina, my desire to learn has led me to the amazing world of **Data Analysi
 
 👩‍🎓Studing [Data Anlyst](https://www.upgrade-hub.com/bootcamp/curso-data-analytics/) at Upgrade Hub.
 
-This is a field full of opportunities for **learning and growth**. There's always something new to discover, whether it's exploring different techniques, mastering programming languages, or diving into the latest developments in machine learning and artificial intelligence. <br/><br>
+This is a field full of opportunities for **learning and growth**. There's always something new to discover, whether it's exploring different techniques, mastering programming languages, or diving into the latest developments in machine learning and artificial intelligence. <br/>
+
+**Here you'll find some of my projects and contributions to the open source community:**
+
+- 🌴[Inside Airbnb:Hawaii](https://github.com/MarinaSchluter/Inside-Airbnb_Hawaii): Analysis of Airbnb data for the city of Hawaii.
+- 🚢[Project Titanic](https://github.com/MarinaSchluter/Proyecto-Titanic/tree/main): Processing and analysing the Titanic dataset.
 
 # ⚡ Tech Stack:<br/> 
 ## 💻 Data Science & Business Intelligence Full Stack <br>
