@@ -1,6 +1,8 @@
 # 💫 About Me:
 I'm Marina, my desire to learn has led me to the amazing world of **Data Analysis** and **Data Science**.📊<br><br>
-👩‍🎓 Studied [Data Anlyst](https://www.upgrade-hub.com/landing-pages/bootcampDataAnalytics/?utm_source=google-search&utm_medium=cpc&utm_campaign=Search_ES_Todos_Marca_GA-041&pkw=Upgrade%20hub&utm_term=Upgrade%20hub&matchtype=b&device=c&utm_content=693655344848&placement=&network=g&gad_source=1&gclid=Cj0KCQjwlZixBhCoARIsAIC745CCjdkEZg9F7dy8SNuTJFlsxkMqP-QttIVTOEOuvyBGgSdxbMflOZoaAna6EALw_wcB) at the Upgrade Hub<br/><br><br>
+
+👩‍🎓 Studied [Data Anlyst](https://www.upgrade-hub.com/bootcamp/curso-data-analytics/) at Upgrade Hub.<br/><br><br>
+
 This is a field full of opportunities for **learning and growth**. There's always something new to discover, whether it's exploring different techniques, mastering programming languages, or diving into the latest developments in machine learning and artificial intelligence. <br><br>
 
 ## Working Experience💻🎰<br><br>
