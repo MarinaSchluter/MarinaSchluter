@@ -5,20 +5,19 @@ I'm Marina, my desire to learn has led me to the amazing world of **Data Analysi
 
 🏅Complete [ICA Certificate in Anti Money Laundering](https://www.int-comp.org/courses/ica-certificate-in-anti-money-laundering/) in July 2021.
 
-🏅Complete [ICA International Advanced Certificate in Anti Money Laundering (AML)](https://www.int-comp.org/courses/ica-international-advanced-certificate-in-anti-money-laundering/) in June 2023.<br/><br><br>
+🏅Complete [ICA International Advanced Certificate in Anti Money Laundering (AML)](https://www.int-comp.org/courses/ica-international-advanced-certificate-in-anti-money-laundering/) in June 2023.<br/><br>
 
 
-This is a field full of opportunities for **learning and growth**. There's always something new to discover, whether it's exploring different techniques, mastering programming languages, or diving into the latest developments in machine learning and artificial intelligence. <br><br>
+This is a field full of opportunities for **learning and growth**. There's always something new to discover, whether it's exploring different techniques, mastering programming languages, or diving into the latest developments in machine learning and artificial intelligence. <br/><br>
 
-## Working Experience💻🎰<br><br>
-I have over 20 years of experience in the **Gaming industry**, spanning both based landed and Online. Throughout this extensive tenure, I have continuously evolved, learning and delving into various facets of the business. My expertise encompasses **Customer Service**, **VIP user Management**, **Responsible Gaming**, **Fraud** detection, **Risk** Assessment, and **Anti-Money Laundering**.
+## Working Experience💻🎰<br>
+I have over 20 years of experience in the **Gaming industry**, spanning both based landed and Online. Throughout this extensive tenure, I have continuously evolved, learning and delving into various facets of the business. My expertise encompasses **Customer Service**, **VIP user Management**, **Responsible Gaming**, **Fraud** detection, **Risk** Assessment, and **Anti-Money Laundering**.<br><br>
 
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Marina Schluter](https://www.linkedin.com/in/marina-schluter-41281633/)) 
+## 🌐 Socials:<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Marina Schluter](https://www.linkedin.com/in/marina-schluter-41281633/))<br><br>
 
-# 💻 Tech Stack:
- 
+# 💻 Tech Stack:<br/> 
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
  ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
  ![Google Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
@@ -37,21 +36,21 @@ I have over 20 years of experience in the **Gaming industry**, spanning both bas
  <br><br>
 
   
-# 📊 GitHub Stats:
+# 📊 GitHub Stats:<br/>
 ![](https://github-readme-stats.vercel.app/api?username=MarinaSchluter&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=MarinaSchluter&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaSchluter&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=MarinaSchluter&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)<br><br>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=MarinaSchluter&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+## 🏆 GitHub Trophies <br>
+![](https://github-profile-trophy.vercel.app/?username=MarinaSchluter&theme=radical&no-frame=false&no-bg=true&margin-w=4)<br><br>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️ Random Dev Quote <br>
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical) <br><br>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MarinaSchluter&limit=5&theme=dark&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo <br>
+![](https://github-contributor-stats.vercel.app/api?username=MarinaSchluter&limit=5&theme=dark&combine_all_yearly_contributions=true)<br><br>
 
-### 😂 Random Dev Meme
+### 😂 Random Dev Meme <br>
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
